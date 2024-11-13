@@ -1,8 +1,6 @@
-# shop_app
+# E-Commerce
 
-A new Flutter application.
-
-## Getting Started
+## Flutter Application
 
 This project is a starting point for a Flutter application.
 
